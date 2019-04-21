@@ -56,7 +56,7 @@
 
 		<!--脚注-->
 		<div class="footer">
-			<p>© 2017
+			<p>© 2019
 				<a href="#">HotelBook System</a>
 			</p>
 		</div>
